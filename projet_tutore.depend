@@ -1,0 +1,290 @@
+# depslib dependency file v1.0
+1575026008 source:z:\projet tutoré\projet_tutore\squelette (avec arguments de lignes de commande).cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+
+1576372278 source:c:\users\peceh\nextcloud\documents\projet tutoré\projet_tutore\src\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	<sstream>
+	<algorithm>
+	<cctype>
+
+1576060161 source:c:\users\madoc\nextcloud\documents\projet tutoré\projet_tutore\src\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	<sstream>
+
+1576372600 source:d:\documents\cloud iut orsay\travailperso\system\c++\projet_tutore\src\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	<sstream>
+	<algorithm>
+	<cctype>
+
+1578065595 source:d:\documents\c++\projet_tutore\src\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	<sstream>
+	<algorithm>
+	<cctype>
+
+1578485561 source:c:\users\madoc\desktop\projet_tutore\src\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	<sstream>
+	<algorithm>
+	<cctype>
+
+1578519292 source:c:\users\peceh\nextcloud\cours\projet tutoré\projet_tutore_v080120\src\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	<sstream>
+	<algorithm>
+	<cctype>
+	"fonctions.h"
+
+1578519278 c:\users\peceh\nextcloud\cours\projet tutoré\projet_tutore_v080120\src\fonctions.h
+
+1578519266 source:c:\users\peceh\nextcloud\cours\projet tutoré\projet_tutore_v080120\src\fonctions.cpp
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<cctype>
+	"fonctions.h"
+
+1578519270 source:z:\projet tutoré\projet_tutore_v090120\src\fonctions.cpp
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<cctype>
+	"fonctions.h"
+
+1578519282 z:\projet tutoré\projet_tutore_v090120\src\fonctions.h
+
+1578566345 source:z:\projet tutoré\projet_tutore_v090120\src\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	<sstream>
+	<algorithm>
+	<cctype>
+	"fonctions.h"
+
+1578519270 source:c:\users\madoc\nextcloud\projet tutoré\projet_tutore_v090120_12h\src\fonctions.cpp
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<cctype>
+	"fonctions.h"
+
+1578519283 c:\users\madoc\nextcloud\projet tutoré\projet_tutore_v090120_12h\src\fonctions.h
+
+1578519270 source:c:\users\peceh\nextcloud\cours\projet tutoré\projet_tutore_v090120_12h\src\fonctions.cpp
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<cctype>
+	"fonctions.h"
+
+1578519283 c:\users\peceh\nextcloud\cours\projet tutoré\projet_tutore_v090120_12h\src\fonctions.h
+
+1578584157 source:c:\users\peceh\nextcloud\cours\projet tutoré\projet_tutore_v090120_12h\src\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	<sstream>
+	<algorithm>
+	<cctype>
+	"fonctions.h"
+
+1578519270 source:c:\users\peceh\nextcloud\cours\projet tutoré\projet_tutore_v090120_14h\src\fonctions.cpp
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<cctype>
+	"fonctions.h"
+
+1578519283 c:\users\peceh\nextcloud\cours\projet tutoré\projet_tutore_v090120_14h\src\fonctions.h
+
+1578763322 source:c:\users\peceh\nextcloud\cours\projet tutoré\projet_tutore_v090120_14h\src\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	<sstream>
+	<algorithm>
+	<cctype>
+	"fonctions.h"
+
+1578834519 source:c:\users\peceh\nextcloud\cours\projet tutoré\projet_tutore_v120120\src\fonctions.cpp
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<cctype>
+	"fonctions.h"
+
+1578519283 c:\users\peceh\nextcloud\cours\projet tutoré\projet_tutore_v120120\src\fonctions.h
+
+1578834373 source:c:\users\peceh\nextcloud\cours\projet tutoré\projet_tutore_v120120\src\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	<sstream>
+	<algorithm>
+	<cctype>
+	"fonctions.h"
+
+1578839870 source:c:\users\peceh\nextcloud\cours\projet tutoré\projet_tutore_v120120_14h\src\fonctions.cpp
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<cctype>
+	"fonctions.h"
+
+1578519283 c:\users\peceh\nextcloud\cours\projet tutoré\projet_tutore_v120120_14h\src\fonctions.h
+
+1578838714 source:c:\users\peceh\nextcloud\cours\projet tutoré\projet_tutore_v120120_14h\src\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	<sstream>
+	<algorithm>
+	<cctype>
+	"fonctions.h"
+
+1579355451 source:c:\users\peceh\nextcloud\cours\projet tutoré\projet_tutore_v120120_16h\src\fonctions.cpp
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<cctype>
+	"fonctions.h"
+
+1578519283 c:\users\peceh\nextcloud\cours\projet tutoré\projet_tutore_v120120_16h\src\fonctions.h
+
+1579353761 source:c:\users\peceh\nextcloud\cours\projet tutoré\projet_tutore_v120120_16h\src\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	<sstream>
+	<algorithm>
+	<cctype>
+	"fonctions.h"
+
+1579360925 source:c:\users\peceh\nextcloud\cours\projet tutoré\projet_tutore_v180120\src\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	<sstream>
+	<algorithm>
+	<cctype>
+	"fonctions.h"
+
+1578519283 c:\users\peceh\nextcloud\cours\projet tutoré\projet_tutore_v180120\src\fonctions.h
+
+1579361063 source:c:\users\peceh\nextcloud\cours\projet tutoré\projet_tutore_v180120\src\fonctions.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<cctype>
+	"fonctions.h"
+
+1579363934 source:c:\users\peceh\nextcloud\cours\projet_tutoré\projet_tutore_v180120\src\fonctions.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<cctype>
+	"fonctions.h"
+
+1578519283 c:\users\peceh\nextcloud\cours\projet_tutoré\projet_tutore_v180120\src\fonctions.h
+
+1579363934 source:c:\users\peceh\nextcloud\cours\projet_tutoré\projet_tutore_v180120\src\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	<sstream>
+	<algorithm>
+	<cctype>
+	"fonctions.h"
+
+1579445862 source:c:\users\peceh\nextcloud\cours\projet_tutoré\projet_tutore_v180120_17h\src\fonctions.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<cctype>
+	"fonctions.h"
+
+1579445862 c:\users\peceh\nextcloud\cours\projet_tutoré\projet_tutore_v180120_17h\src\fonctions.h
+
+1579448006 source:c:\users\peceh\nextcloud\cours\projet_tutoré\projet_tutore_v180120_17h\src\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	<sstream>
+	<algorithm>
+	<cctype>
+	"fonctions.h"
+

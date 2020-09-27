@@ -1,0 +1,23 @@
+Avant d'éxecuter une commande, se positionner dans le répertoire du projet (si ce n'est pas déjà le cas) avec la commande cd [chemin jusqu'au répertoire du projet]
+
+Test 1 : nombre de paramètres incorrect
+
+"bin\Debug\projet_tutore.exe"
+
+résultat : Veuillez mettre en parametre les fichier csv suivants :
+"data/perso.csv" (1er) et "data/entreprise.csv" (2nd) dans l'ordre indique
+Process returned 1 (0x1)
+
+Test 2 : les fichiers indiqués sont vides ou comportent au moins une ligne avec un seul champ
+
+"bin\Debug\projet_tutore.exe" "data/perso_vide.csv" "data/entreprise_vide.csv"
+
+résultat : Erreur : L'un des fichiers d'entree est vide ou ne comporte qu'un seul champ sur au moins une ligne (un champ etant delimite par un caractere '|')
+Process returned 1 (0x1)
+
+Test 3 : saisie incorrecte du choix de mode
+
+"bin\Debug\projet_tutore.exe" "data/perso.csv" "data/entreprise.csv" + taper un caractère différent de 0 ou 1.
+
+résultat : Erreur : saisie incorrect
+Process returned 1 (0x1)
